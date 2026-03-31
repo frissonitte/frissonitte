@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi, I'm Emirhan 👋
 
-<!--
-**frissonitte/frissonitte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Engineer focused on **Automation**, **Applied AI**, and
+**Data Systems**. I build things that reduce manual work, automate
+messy workflows, and turn models into usable products.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠 Core Stack
+
+`Python` `Flask` `Selenium` `TensorFlow` `OpenCV` `Pandas/Dask`
+`SQL` `REST APIs` `Git`
+
+---
+
+#### 🔬 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**wbc-analyzer-final**](https://github.com/frissonitte/wbc-analyzer-final) | AI-powered WBC classifier — 93.4% accuracy, 89.6% OOD, Grad-CAM + LLM explainability, Flask REST API | DenseNet121 · Flask · Gemini · OpenCV |
+| [**portal-cleaner-ultimate**](https://github.com/frissonitte/portal-cleaner-ultimate) | Desktop RPA tool — reduced 4–6 hr daily ERP workload to <30 min | Selenium · Tkinter · Multithreading |
+| [**popcorn-wagon**](https://github.com/frissonitte/popcorn-wagon) | Hybrid movie recommender — SVD + content-based + TMDB API, full Flask backend | Pandas · Dask · Annoy · SQLAlchemy |
+
+---
+
+#### 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-emirhanyildirim619-blue?style=flat&logo=linkedin)](https://linkedin.com/in/emirhan-yildirim619)
+[![Email](https://img.shields.io/badge/Email-emirhan0yildirim@gmail.com-red?style=flat&logo=gmail)](mailto:emirhan0yildirim@gmail.com)
