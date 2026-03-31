@@ -26,4 +26,4 @@ messy workflows, and turn models into usable products.
 #### 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-emirhanyildirim619-blue?style=flat&logo=linkedin)](https://linkedin.com/in/emirhan-yildirim619)
-[![Email](https://img.shields.io/badge/Email-emirhan0yildirim@gmail.com-red?style=flat&logo=gmail)](mailto:frissonitte619@gmail.com)
+[![Email](https://img.shields.io/badge/Email-frissonitte619@gmail.com-red?style=flat&logo=gmail)](mailto:frissonitte619@gmail.com)
