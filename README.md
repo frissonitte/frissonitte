@@ -32,4 +32,4 @@ I specialize in bridging the gap between prototypes and production. Whether it's
 
 #### 📬 Let's Connect
 
-[LinkedIn](https://linkedin.com/in/emirhan-yildirim619) • [Email](mailto:emirhan0yildirim@gmail.com)
+[LinkedIn](https://linkedin.com/in/emirhan-yildirim619) • [Email](mailto:frissonitte619@gmail.com)
