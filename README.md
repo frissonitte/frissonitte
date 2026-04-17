@@ -25,7 +25,7 @@ I specialize in bridging the gap between prototypes and production. Whether it's
 |---|---|
 | [**wbc-analyzer-final**](https://github.com/frissonitte/wbc-analyzer-final) | End-to-end WBC classification system featuring a **Flask REST API** and **Grad-CAM**. Achieved **93.4% accuracy** and strong OOD performance. |
 | [**popcorn-wagon**](https://github.com/frissonitte/popcorn-wagon) | Hybrid movie recommender engine built with **Dask/Pandas** for scalable ETL and sub-millisecond similarity search. |
-| [**portal-cleaner-ultimate**](https://github.com/frissonitte/portal-cleaner-ultimate) | Multi-threaded ERP automation tool with retry logic. Reduced daily manual workload by **over 90%** (from 4-6 hours to <30 mins). |
+| [**portal-cleaner-ultimate**](https://github.com/frissonitte/portal-cleaner-ultimate) | Modular RPA suite featuring a **custom local test harness** for offline simulation. Engineered with fault-tolerant retry logic, reducing manual workloads by **over 90%**. |
 | [**marketplace-automation-core**](https://github.com/frissonitte/marketplace-automation-core) | Modular Python automation core for real-world e-commerce workflows. Executed **700+ transactions** with a **99% success rate**. |
 
 ---
