@@ -23,7 +23,7 @@ I specialize in bridging the gap between prototypes and production. Whether it's
 
 | Project | Description |
 |---|---|
-| [**wbc-analyzer-final**](https://github.com/frissonitte/wbc-analyzer-final) | End-to-end WBC classification system featuring a **Flask REST API** and **Grad-CAM**. Achieved **93.4% accuracy** and strong OOD performance. |
+| [**wbc-analyzer-final**](https://github.com/frissonitte/wbc-analyzer-final) | End-to-end WBC classification system (DenseNet121 + CBAM) deployed as a Flask REST API. Features inference-time domain adaptation (+31% OOD accuracy boost), shortcut-resistant training, and Gemini-powered Agentic XAI for heatmap evaluation. Achieved 98.5% baseline accuracy. |
 | [**popcorn-wagon**](https://github.com/frissonitte/popcorn-wagon) | Hybrid movie recommender engine built with **Dask/Pandas** for scalable ETL and sub-millisecond similarity search. |
 | [**portal-cleaner-ultimate**](https://github.com/frissonitte/portal-cleaner-ultimate) | Modular RPA suite featuring a **custom local test harness** for offline simulation. Engineered with fault-tolerant retry logic, reducing manual workloads by **over 90%**. |
 | [**marketplace-automation-core**](https://github.com/frissonitte/marketplace-automation-core) | Modular Python automation core for real-world e-commerce workflows. Executed **700+ transactions** with a **99% success rate**. |
