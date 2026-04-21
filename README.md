@@ -29,7 +29,3 @@ I specialize in bridging the gap between prototypes and production. Whether it's
 | [**marketplace-automation-core**](https://github.com/frissonitte/marketplace-automation-core) | Modular Python automation core for real-world e-commerce workflows. Executed **700+ transactions** with a **99% success rate**. |
 
 ---
-
-#### 📬 Let's Connect
-
-[LinkedIn](https://linkedin.com/in/emirhan-yildirim619) • [Email](mailto:frissonitte619@gmail.com)
