@@ -1,6 +1,6 @@
 ### Hi, I'm Emirhan 👋
 
-**Python Developer | Machine Learning, Backend & AI Products**
+**Software Developer | Machine Learning, Backend & AI Products**
 
 I specialize in bridging the gap between prototypes and production. Whether it's training AI models with high accuracy, engineering robust data pipelines, or automating hours of manual workflows into minutes, my focus is on building scalable, real-world systems.
 
